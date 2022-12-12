@@ -19,7 +19,7 @@ Description of the project -:
 
 To install and use the necessary libraries, use the below command in terminal of VS Code -:
 
-• npm i formik  -> To install formik
+• npm i formik  -> To install formik \n
 • npm i yup     -> To install yup
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
