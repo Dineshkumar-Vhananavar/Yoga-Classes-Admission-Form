@@ -20,19 +20,19 @@ Description of the project -: \
 To install and use the necessary libraries, use the below command in terminal of VS Code -:
 
 • npm i formik  -> To install formik \
-• npm i yup_____-> To install yup
+• npm i yup     -> To install yup
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To run and access the project, use the below command in terminal of VS Code -:
 
-• npm run dev___-> A link will be seen as output in the terminal click the link using ctrl key the project will open in chrome and you can checkout the project.
+• npm run dev   -> A link will be seen as output in the terminal click the link using ctrl key the project will open in chrome and you can checkout the project.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To build this project and create the build file , use the below command as -:
 
-• npm run build_-> A folder will be created with name build/dict in your directory.
+• npm run build -> A folder will be created with name build/dict in your directory.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
