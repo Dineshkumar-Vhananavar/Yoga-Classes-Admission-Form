@@ -1,5 +1,5 @@
 # Yoga-Classes-Admission-Form
----------------------------------------------Yoga_Classes_Admission_Form-------------------------------------------
+-------------------------------------------------Yoga_Classes_Admission_Form-----------------------------------------------
 
 Name of the project -: Yoga Classes Admission Form
 
