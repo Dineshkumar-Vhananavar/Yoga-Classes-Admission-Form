@@ -7,6 +7,8 @@ Name of the project -: Yoga Classes Admission Form
 
 Technology -: React.js, HTML, CSS, Express.js, Node.js, MySQL, Netlify
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Description of the project -: \
 • In this project, we have created an admission form for Yoga classes and the project is hosted using netlify where we have hosted our fronted.\
 • The frontend for this project is developed using React.js, HTML and CSS  whereas the backend is developed using Node.js, Express.js and MySQL.\
