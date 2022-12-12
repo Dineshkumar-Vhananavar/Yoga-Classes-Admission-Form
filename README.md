@@ -3,6 +3,8 @@
 
 Name of the project -: Yoga Classes Admission Form
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Technology -: React.js, HTML, CSS, Express.js, Node.js, MySQL, Netlify
 
 Description of the project -: \
