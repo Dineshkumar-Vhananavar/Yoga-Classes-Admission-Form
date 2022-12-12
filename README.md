@@ -43,3 +43,9 @@ To build this project and create the build file , use the below command as -:
 To deploy this project using netlify follow below steps -:
 
 • Just login to netlify and in the sites tab there will be an option to drag & drop your output files, just drag & drop / upload ypur build folder created from the       above step and that it your project will be hosted and link will be created and displayed to you, now share it with anyone you want.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Link to the deployed project -:
+
+• https://dk-yoga-classes-admission-form.netlify.app/
