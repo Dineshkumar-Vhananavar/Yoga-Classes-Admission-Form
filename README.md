@@ -1,5 +1,5 @@
 # Yoga-Classes-Admission-Form
----------------------------------------------------------------Yoga_Classes_Admission_Form-------------------------------------------------------------
+---------------------------------------------Yoga_Classes_Admission_Form-------------------------------------------
 
 Name of the project -: Yoga Classes Admission Form
 
@@ -13,7 +13,7 @@ Description of the project -: \
 • We have also use the formik open source library for React.js which is basically used to handle the form.\
 • Formik & Yup offer an easy, understandable and extensible solution to handling & validating forms in React.js .\
 • For MySQL database and the local server we have used phpMyAdmin which is a free and open source administration tool for MySQL and MariaDB.\
-• When the project gets exceuted on local machine the database gets connected to our project successfully and when we fill the admisssion form and click the submit &     pay button the data is sent to our MySQL database and the records in the database can be seen.\
+• When the project gets exceuted on local machine the database gets connected to our project successfully and when we fill the admisssion form and click the submit &     pay button the data is sent to our MySQL database and the records in the database can be seen.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
